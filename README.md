@@ -1,6 +1,7 @@
 # mankindui/core
 
 -   a react component library
+-   you can see how @mankindui/core can be used via examples: [usage examples](https://github.com/clarklindev/mankindui-test)
 
 ## usage
 
